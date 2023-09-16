@@ -17,6 +17,7 @@ images:
 - doc/img/20170121_195201.jpg
 - doc/img/ISL03A_QRcode.png
 mark: 50
+status: 0
 tags:
 - mlab
 - mlab-module
