@@ -4,17 +4,17 @@ github_repo: ISL03
 github_url: https://github.com/mlab-modules/ISL03
 homepage: false
 images:
-- doc/img/20170121_195215.jpg
-- doc/img/20170122_124705.jpg
-- doc/img/20170122_121126.jpg
-- doc/img/20170122_121412.jpg
-- doc/img/ISL03A_top_small.jpg
-- doc/img/20170121_192658.jpg
-- doc/img/20170122_121135.jpg
 - doc/img/20170122_121441.jpg
-- doc/img/20170121_192703.jpg
+- doc/img/20170122_121412.jpg
+- doc/img/20170122_124705.jpg
+- doc/img/20170121_195215.jpg
 - doc/img/20170122_121356.jpg
+- doc/img/20170121_192703.jpg
 - doc/img/20170121_195201.jpg
+- doc/img/20170122_121126.jpg
+- doc/img/20170122_121135.jpg
+- doc/img/20170121_192658.jpg
+- doc/img/ISL03A_top_small.jpg
 - doc/img/ISL03A_QRcode.png
 mark: 50
 status: 0
